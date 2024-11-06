@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.countiner{
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.ya1{
+    /* border: red solid 2px ; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    /* margin: 100px; */
+}
+h1{
+    /* text-align: center; */
+    /* margin: 20px; */
+    font-size: 100px;
+    color: white;
+}
+.ya2{
+    /* border: blue solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+h2{
+    font-weight: 100;
+    width: 350px;
+    margin: 40px;
+    color: white;
+}
+.ya3{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya4{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}.ya5{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya6{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya7{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya8{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya9{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya10{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya11{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya12{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya13{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya14{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya15{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya16{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya17{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.ya18{
+    /* border: palevioletred solid 2px; */
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+h3{
+    font-weight: 100;
+    width: 350px;
+    margin: 40px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
